@@ -20,3 +20,4 @@ drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:44 week09
 drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:44 week10
 drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:38 xtra
 /home/fasilkom/mahasiswa/i/ismail.shalih/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
