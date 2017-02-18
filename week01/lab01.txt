@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 ismail.shalih StafCS 4096 Feb 18 12:53 .
+drwx--x--x  3 ismail.shalih StafCS 4096 Feb 18 12:51 ..
+drwxr-xr-x  8 ismail.shalih StafCS 4096 Feb 18 12:52 .git
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:38 key
+-rw-r--r--  1 ismail.shalih StafCS    0 Feb 18 12:53 lab01.txt
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:38 log
+-rw-r--r--  1 ismail.shalih StafCS    7 Feb 18 12:34 README.md
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:46 sandbox
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:51 week00
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:42 week01
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:42 week02
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:42 week03
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:43 week04
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:43 week05
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:43 week06
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:43 week07
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:44 week08
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:44 week09
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:44 week10
+drwxr-xr-x  2 ismail.shalih StafCS 4096 Feb 18 12:38 xtra
+/home/fasilkom/mahasiswa/i/ismail.shalih/os171/week01
