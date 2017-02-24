@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/i/ismail.shalih/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/E28534ED 2017-02-24 [expires: 2017-08-23]
+uid                  Ismail Shalih Abdul Kholiq (semoga lulus) <ismail.shalih@ui.ac.id>
+sub   4096R/A6CBDBE6 2017-02-24 [expires: 2017-08-23]
+

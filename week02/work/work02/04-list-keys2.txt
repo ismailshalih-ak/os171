@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/i/ismail.shalih/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/E28534ED 2017-02-24 [expires: 2017-08-23]
+uid                  Ismail Shalih Abdul Kholiq (semoga lulus) <ismail.shalih@ui.ac.id>
+sub   4096R/A6CBDBE6 2017-02-24 [expires: 2017-08-23]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
